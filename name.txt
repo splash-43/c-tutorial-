@@ -1,0 +1,3 @@
+we will  be able to commit  the changes only after we stage the file the means git add .
+----> first we make the changes after which we stage the file using the add command and after this check we commit some thing in the git repository 
+ 

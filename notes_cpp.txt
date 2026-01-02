@@ -1,0 +1,2 @@
+types of error 
+This is a compile-time error, specifically an operator misuse (syntax/semantic) error in C++

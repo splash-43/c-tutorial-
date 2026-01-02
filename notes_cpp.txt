@@ -1,2 +1,3 @@
 types of error 
 This is a compile-time error, specifically an operator misuse (syntax/semantic) error in C++
+if no here in the condition loop means  else 

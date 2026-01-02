@@ -1,3 +1,4 @@
+// Online C++ compiler to run C++ program online
 #include <iostream>
 using namespace std;
 int main() {
@@ -8,12 +9,12 @@ int main() {
     
     cout<<"enter three   numbers  "<<endl;
     cin>>a>> b>> c;
-    cout<<"the three no.s are "<< a << b<< c <<" "<< endl ;
+    cout<<"the three no.s are "<< a <<" "<< b<<" " << c <<" "<< endl ;
     //now we wanna find the which no is the greatest 
-   if (a>b || a>c){
+   if (a>b && a>c){
  cout<< " a is the greatest "<< a << endl;
   }
-  else if (b>a || b>c){
+  else if (b>a && b>c){
   cout << "b is the greatest"<< b << endl;
 
   }
